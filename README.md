@@ -7,8 +7,8 @@ A static linter and runtime testing platform for assessing deep learning non-det
 From your terminal, clone this repository and move into the project directory as shown here:
 
 ```text
-git clone https://github.com/minnervva/torchdetscan.git
-cd torchdetscan
+git clone https://github.com/minnervva/torchdet.git
+cd torchdet
 ```
 
 Install Python from https://www.python.org or by using various other methods. After installing Python, create and activate a virtual environment within the project directory as follows:

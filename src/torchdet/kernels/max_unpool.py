@@ -1,6 +1,6 @@
 import torch
 from dataclasses import dataclass
-from torchdetscan.kernels.utils import (
+from torchdet.kernels.utils import (
     HyperParamLoop,
     HyperParams,
     LoopParams,
